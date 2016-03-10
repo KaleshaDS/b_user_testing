@@ -1,0 +1,156 @@
+header{
+	background-image: url('../image/large.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	width: 100%;
+	height:505px;
+	z-index: -1;
+}
+/*fondo principal*/
+.bg-g{
+	background-color: rgba(0, 0, 0, 0.5);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	width: 100%;
+	height:505px;
+}
+.title{
+	position: relative;
+	top: 10em;
+	left: 5em;
+	width: 40em;
+	font-size: 10px;
+}
+/*clase para cualquier texto blanco*/
+.white{
+	color: #FFF;
+	font-size: 50px;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-top: 139px;
+	margin-bottom:164px;
+}
+/*clase para cualquier texto azul*/
+.blue {
+	color: #2A64AB;
+}
+
+/*barras azules de la pagina*/
+.blue-bar{
+	background-color:#133B8E;
+	height: 12em;
+	color: #F2F2F2;
+	opacity: 0.9;
+	position: relative;
+	bottom: 7.7em;
+}
+/*botones de prueba*/
+.try {
+	width: 30%;
+	height: 3em;
+	margin-top: 1em;
+	border-radius: 1em;
+	background: transparent;
+	border: 0.1em solid #D8D8D8 !important;
+	font-size: 1.5em;
+}
+/*Titulo acerca de la pagina*/
+.minititle {
+	font-size: 40px;
+}
+.about{
+	margin-bottom: 90px;
+}
+.service{
+	margin: 2em 0em;
+}
+.icon-size{
+	font-size: 6em;
+	margin-bottom: 10%;
+}
+hr {
+	border: 1px solid #E6E6E6;
+}
+/*Seccion de video*/
+.separation {
+	margin-top: 3em;
+}
+.video-box{
+	height: 350px;
+}
+
+.separador {
+	margin-top: -75px;
+}
+.logo {
+	width: 70%;
+	margin-top: 18px;
+	margin-left: -25px;
+}
+.it {
+	float: right;
+}
+.arrow{
+	width: 100%;
+	margin-top: 2em;
+}
+#bg-2 {
+	width: 100%;
+	height: 500px;
+	margin-top: -22px;
+	margin-bottom: -22px;
+	opacity: 0.7;
+}
+/*iconos verticales*/
+.ico-col{
+	position: absolute;
+	text-align: center;
+	padding-top:3em;
+	left: 43em;
+}
+.icon-box {
+	width: 70px;
+	height: 70px;
+	background-color: #0489B1;
+	border-radius: 100%;
+	padding-top: 12px;
+	margin-bottom: 50px;
+	margin-left: 7px;
+	color: white;
+}
+.icon-size{
+	
+	font-size: 40px;
+}
+/*seccion de convencimineto xD*/
+
+#bg-3 {
+	width: 100%;
+	height: 400px;
+	margin-bottom: 90px;
+}
+
+#down{
+	top:0.1em;
+}
+ /*Configuracion del pie de pagina*/
+
+.bg-f {
+	background-color: #0B243B;
+	color: white;
+	width: 100%;
+	height: 130px;
+	padding: 2%;
+}
+.float-f {
+	width: 50%;
+	float: left;
+}
+i {
+	font-size: 4em;
+	margin-left: 10px;
+}

@@ -1,0 +1,28 @@
+	@media (max-width: 767px) {
+	
+	.ghost {
+		display: none;
+	}
+	.minititle {
+		font-size: 2em !important;
+	}
+	.resp {
+		text-align: center !important;
+	}
+	.blue-bar {
+		background-color: #133B8E !important;
+		height: 6em !important;
+		color: #F2F2F2;
+		position: relative;
+		top:-12em;
+	}
+	.try {
+		height: 5em !important;
+		width: 10em !important;
+		background-color: #009688 !important;
+		font-size: 2em !important;
+		position: relative;
+		right: 4em;
+		top: 3em;
+	}
+}

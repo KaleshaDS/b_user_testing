@@ -1,0 +1,38 @@
+body{
+	background-image: url('../image/large.jpg');
+	background-size: 100%, 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	z-index: -1;
+
+}
+.form{
+	border-top:0.5em solid #084B8A;
+	background-color: #FFFFFF;
+	box-shadow: 1em 1em 1em #424242;
+	position: relative;
+	top: 10em;
+	left: 10em;
+	width: 160%;
+	height: 28em;
+	z-index: -1;
+}
+.title{
+	position: relative;
+	left: 5em;
+	border-bottom: 1px solid #585858;
+	width: 60%;
+}
+.form input,
+.form textarea{
+	width: 70%;
+	margin-top: 2%;
+}
+.orange{
+	color:orange;
+}
+.inline{
+	display: inline; 	
+}
+
